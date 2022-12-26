@@ -51,3 +51,12 @@ There are also two test points on the CAN_H and CAN_L signals.
 
 Populating the debug circuitry is optional.
 
+# 3D Views of the Board
+## Top
+![alt text](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/CAN%20Distribution%20With%20Debug%20Top.png?raw=true)
+
+## Iso Front
+![alt text](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/CAN%20Distribution%20With%20Debug%20Iso.png?raw=true)
+
+## Iso Back
+![alt text](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/CAN%20Distribution%20With%20Debug%202%20Iso.png?raw=true)
