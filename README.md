@@ -8,6 +8,10 @@ This board has not been fabricated or tested. It is to be considered
 alpha and subject to bugs and errors. Use at your own risk. However the Gerbers
 are provided should you want to fabricate your own.
 
+## Enclosure
+
+An 3D-printable enclosure is avaiable for this board. [Enclosure link](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure)
+
 ## Introduction
 This is a board created to simplify CAN wiring on FRC robots. It was created by the
 mentors of FRC2468/2687/2689.
