@@ -8,6 +8,8 @@ This board has not been fabricated or tested. It is to be considered
 alpha and subject to bugs and errors. Use at your own risk. However the Gerbers
 are provided should you want to fabricate your own.
 
+The board is designed with KiCAD, the schematic and PCB files are included.
+
 ## Enclosure
 
 An 3D-printable enclosure is avaiable for this board. [Enclosure link](https://github.com/2468shrm/CAN-Distribution-Board-Enclosure)
@@ -15,6 +17,13 @@ An 3D-printable enclosure is avaiable for this board. [Enclosure link](https://g
 ## Introduction
 This is a board created to simplify CAN wiring on FRC robots. It was created by the
 mentors of FRC2468/2687/2689.
+
+### Board Schematic
+
+![alt text](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/Schematic.png?raw=true)
+The PDF of the schematic is available at this [schematic link](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/Schematic.pdf)
+
+### Features
 
 The board has 5 CAN connections and 3 power connections. The intended use is for
 the CAN connections of either a swerve module or a WCD gearbox.
@@ -64,3 +73,4 @@ Populating the debug circuitry is optional.
 
 ## Iso Back
 ![alt text](https://github.com/2468shrm/CAN-Distribution-With-Debug/blob/main/Images/CAN%20Distribution%20With%20Debug%202%20Iso.png?raw=true)
+		
